@@ -2,7 +2,7 @@
 
 ### Summary
 - 💻  &ensp; Software Engineer with 6+ years of experience in Web development with JavaScript, React & Node. 
-- 🏎️  &ensp; Experienced developing Web site requirements using Agile methodologies.
+- 🏎️  &ensp; Experienced developing Web sites requirements using Agile methodologies.
 - 🕸️  &ensp; Experienced preparing Web mock-ups, designing the appearance and flow of the Web site.
 - ⚙️  &ensp; Experienced integrating Frontend and Backend solutions.
 - 🇨🇦  &ensp; Willing to relocate to Canada.
